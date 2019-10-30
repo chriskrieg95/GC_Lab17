@@ -1,0 +1,6 @@
+Madagascar,27199568
+India,1339000000
+The United States,325700000
+China,1386000000
+Rwanda,12210000
+Brazil,209300000
