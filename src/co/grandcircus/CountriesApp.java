@@ -33,19 +33,7 @@ public class CountriesApp {
 		//This is our indication that the program has ended
 		System.out.println("Goodbye!");
 		
-		
-
 		scnr.close();
 	}
-	
-	
-	public static void listCountries() {
-		System.out.println("\nList them yourself!");
-	}
-	public static void addCountry() {
-		System.out.println("\nAsk me again after my 20 min walk");
-		
-	}
-	
 
 }
