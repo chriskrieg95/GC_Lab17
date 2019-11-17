@@ -1,4 +1,4 @@
-package co.grandcircus;
+ package co.grandcircus;
 
 import java.util.Scanner;
 
@@ -31,7 +31,7 @@ public class CountriesApp {
 		} while (action != 3);
 
 		//This is our indication that the program has ended
-		System.out.println("Goodbye!");
+		System.out.println("Buh-bye!");
 		
 		scnr.close();
 	}
